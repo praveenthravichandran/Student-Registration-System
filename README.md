@@ -1,4 +1,4 @@
-![Screenshot (156)](https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/d768f2cb-a219-4b75-b13b-cee7aa377359)<h1 align="center">Student-Registration-System</h1>
+<h1 align="center">Student-Registration-System</h1>
 <br>
 <h2>Description</h2>
 <p>This system can insert, retrieve, delete, update and search the data. The login page is made so that only authorized users can access the system.</p>
@@ -43,7 +43,7 @@
 <img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/57280a90-2554-49aa-9ac1-eaa62aa38d42">
 <img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/40ad1603-0e73-4ab4-9ebe-76b6fdbcd655">
 <img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/162fa301-47fd-46a6-9c93-432c2d747119">
-<img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/f9b1ab09-986e-45f7-9b63-4befca00986a">
+<img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/57280a90-2554-49aa-9ac1-eaa62aa38d42">
 <img width="600" src="https://github.com/praveenthravichandran/Student-Registration-System/assets/88272102/71f571ad-9756-4e01-b2df-cd4b53608a7d">
 <h2>About</h2>
 <br>
